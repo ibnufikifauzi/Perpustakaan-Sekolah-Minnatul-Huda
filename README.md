@@ -7,7 +7,7 @@
 
 # Screenshot
 <p align="center">
-  <img src="https://github.com/ibnufikifauzi/Perpustakaan-Sekolah-Minnatul-Huda/blob/main/assets/ss1.PNG" width="430" />
+  <img src="https://github.com/ibnufikifauzi/Perpustakaan-Sekolah-Minnatul-Huda/blob/main/assets/ss1.png" width="430" />
   <img src="https://github.com/ibnufikifauzi/Perpustakaan-Sekolah-Minnatul-Huda/blob/main/assets/ss2.PNG" width="430" />
 </p>
 <p align="center">
